@@ -5,11 +5,11 @@
 - <b>Excel</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SQL</b>
-  - [Covid Vaccination and Death Analysis](https://github.com/Zahhar30/Zahhar-Portfolio/blob/main/Covid%20query.sql)
+  - [Covid Death and Vaccination](https://github.com/Zahhar30/Zahhar-Portfolio/blob/main/Covid%20query.sql)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Python</b>
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - 
 - <b>Tableau</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
