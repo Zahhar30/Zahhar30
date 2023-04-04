@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SQL</b>
   - [Covid Death and Vaccination](https://github.com/Zahhar30/Zahhar-Portfolio/blob/main/Covid%20query.sql)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - 
 - <b>Python</b>
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - 
