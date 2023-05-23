@@ -5,7 +5,7 @@
 - <b>Excel</b>
   - [Data Cleaning to find target customers for Sprocket Central](https://github.com/Zahhar30/CleaningSprocket)
 - <b>SQL</b>
-  - [Covid Death and Vaccination](https://github.com/Zahhar30/Zahhar-Portfolio/blob/main/Covid%20query.sql)
+  - [ Data Exploration: Covid Death and Vaccination](https://github.com/Zahhar30/Zahhar-Portfolio/blob/main/Covid%20query.sql)
   - 
 
 - <b>Tableau</b>
