@@ -16,6 +16,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  
+[<img align="left" alt="Mohamad Zahhar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mohamad Zahhar | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />][tableau]
 
+[tableau]: https://public.tableau.com/app/profile/zahhar8012
 [linkedin]: https://www.linkedin.com/in/mohamad-zahhar-izzat-zainudin-8286751b8/
