@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zahhar! <br/><a href="https://github.com/Zahhar30">Data Analyst to-be</a>, <a href="https://www.linkedin.com/in/mohamad-zahhar-izzat-zainudin-8286751b8/">Linkedin</a>
+<h1>Hi, I'm Zahhar! <br/><a href="https://github.com/Zahhar30">Data Analyst</a>, <a href="https://www.linkedin.com/in/mohamad-zahhar-izzat-zainudin-8286751b8/">Linkedin</a>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
