@@ -7,12 +7,14 @@
 - <b>SQL</b>
   - [Covid Death and Vaccination](https://github.com/Zahhar30/Zahhar-Portfolio/blob/main/Covid%20query.sql)
   - 
-- <b>Python</b>
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - 
+
 - <b>Tableau</b>
   - [Visualization of Sprocket Central Target Customers](https://github.com/Zahhar30/Viz_Sprocket)
-
+  
+- <b>R</b>
+  
+- <b>Python</b>
+  
 
 <h2> 🤳 Connect with me:</h2>
 
