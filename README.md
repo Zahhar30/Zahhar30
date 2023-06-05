@@ -14,7 +14,7 @@
 - <b>R</b>
   
 - <b>Python</b>
-  - [Automated File Sorter in File Explorer](https://github.com/Zahhar30/Viz_Sprocket)
+  - [Automated File Sorter in File Explorer](https://github.com/Zahhar30/pythonproject/blob/main/Automated%20File%20Sorter%20in%20File%20Explorer.ipynb)
 
 <h2> 🤳 Connect with me:</h2>
 
