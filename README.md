@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Excel</b>
-  - [Data Cleaning to find target customers for Sprocket Central](https://github.com/Zahhar30/CleaningSprocket)
+  - [Finding target customers for Sprocket Central](https://github.com/Zahhar30/CleaningSprocket)
 - <b>SQL</b>
   - [ Data Exploration: Covid Death and Vaccination](https://github.com/Zahhar30/Zahhar-Portfolio/blob/main/Covid%20query.sql)
   - 
