@@ -15,7 +15,7 @@
   
 - <b>Python</b>
   - [Automated File Sorter in File Explorer](https://github.com/Zahhar30/pythonproject/blob/main/Automated%20File%20Sorter%20in%20File%20Explorer.ipynb)
-
+  - [Tic-tac-toe](https://github.com/Zahhar30/pythonproject/blob/main/tic-tac-toe.py)
 <h2> 🤳 Connect with me:</h2>
 
   
