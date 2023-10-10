@@ -4,14 +4,9 @@
 
 - <b>Excel</b>
   - [Finding target customers for Sprocket Central](https://github.com/Zahhar30/CleaningSprocket)
-- <b>SQL</b>
-  - [ Data Exploration: Covid Death and Vaccination](https://github.com/Zahhar30/Zahhar-Portfolio/blob/main/Covid%20query.sql)
-  - 
-
+    
 - <b>Tableau</b>
   - [Visualization of Sprocket Central Target Customers](https://github.com/Zahhar30/Viz_Sprocket)
-  
-- <b>R</b>
   
 - <b>Python</b>
   - [Automated File Sorter in File Explorer](https://github.com/Zahhar30/pythonproject/blob/main/Automated%20File%20Sorter%20in%20File%20Explorer.ipynb)
